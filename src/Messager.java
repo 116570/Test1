@@ -3,7 +3,7 @@ import java.io.IOException;
 
 public class Messager {
 	public void DisplayMessage(int text) {
-		System.out.print("Check " + text + " now!");
+		System.out.print("Check 2" + text + " now!");
 	}
 
 	public void ReadFile() throws IOException

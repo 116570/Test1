@@ -7,7 +7,7 @@ public class Adaptor {
 	}
 
 	public static void main(String[] args) throws IOException {
-		if(p(1) != 3)
+		if(p(12) != 3)
             System.out.println("Same!");
         else
             System.out.println("Not the Same");
