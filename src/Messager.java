@@ -6,7 +6,7 @@ public class Messager {
 		System.out.print("Check 2" + text + " now!");
 	}
 
-	public void ReadFile() throws IOException
+	public void ReadFile()
 	{
 		FileReader fpReader = new FileReader("sample.txt");
 		char [] a = new char[50];
