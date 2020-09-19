@@ -12,7 +12,7 @@ public class Adaptor {
         else
             System.out.println("Not the Same");
 
-		Messager obj = new Messager();
+		Messager obj1 = new Messager();
 		obj.DisplayMessage(p(4));
 		obj.ReadFile();
 	}
